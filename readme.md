@@ -1,6 +1,6 @@
 # Challenge: Find First Non-Repeating Character
 
-This challenge is similar to the last. So if you understood that, you should be able to get this one on your own.
+
 
 ## Instructions
 
